@@ -1,0 +1,4 @@
+customize:
+  hello:
+    prefix: "Hello , "
+    sufix: " !"

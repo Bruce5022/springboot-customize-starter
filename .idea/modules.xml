@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/customize-spring-boot-autoconfigure/customize-spring-boot-autoconfigure.iml" filepath="$PROJECT_DIR$/customize-spring-boot-autoconfigure/customize-spring-boot-autoconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customize-spring-boot-starter/customize-spring-boot-starter.iml" filepath="$PROJECT_DIR$/customize-spring-boot-starter/customize-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customize-starter-test/customize-starter-test.iml" filepath="$PROJECT_DIR$/customize-starter-test/customize-starter-test.iml" />
+    </modules>
+  </component>
+</project>
